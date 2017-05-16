@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at IIC_Avalon.v(74): always construct contains both blocking and non-blocking assignments File: D:/University/Uwindsor/FPGA/Board/DE1-Soc/Audio/IIC_Avalon.v Line: 74

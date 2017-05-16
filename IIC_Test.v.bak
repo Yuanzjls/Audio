@@ -1,0 +1,22 @@
+module IIC_Test
+(Clk_In;
+Conduit_IIC_Sclk;
+Conduit_IIC_Sda);
+
+input Clk_In;
+output Conduit_IIC_Sclk;
+inout Conduit_IIC_Sda;
+
+reg Clk_trans;
+reg [32:0]clk_div;
+
+always@(posedge Clk_In) begin
+	if (Clk_div < 50000000) begin
+		Clk_div <= 0;
+		Clk_trans <= ~Clk_trans;
+	end
+	else
+		Clk_div <= Clk_div + 1;
+end
+
+always@(posedge Clk)

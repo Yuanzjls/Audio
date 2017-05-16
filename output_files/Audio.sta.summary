@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Clk_In'
+Slack : -5.444
+TNS   : -231.574
+
+Type  : Slow 1100mV 85C Model Setup 'IIC_Avalon:u3|IIC_Clk'
+Slack : -4.071
+TNS   : -82.957
+
+Type  : Slow 1100mV 85C Model Setup 'Clk_trans'
+Slack : -1.269
+TNS   : -17.396
+
+Type  : Slow 1100mV 85C Model Hold 'Clk_In'
+Slack : 0.375
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'IIC_Avalon:u3|IIC_Clk'
+Slack : 0.388
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Clk_trans'
+Slack : 0.793
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Clk_In'
+Slack : -0.492
+TNS   : -52.444
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'IIC_Avalon:u3|IIC_Clk'
+Slack : -0.394
+TNS   : -14.393
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Clk_trans'
+Slack : -0.394
+TNS   : -7.672
+
+Type  : Slow 1100mV 0C Model Setup 'Clk_In'
+Slack : -5.470
+TNS   : -217.830
+
+Type  : Slow 1100mV 0C Model Setup 'IIC_Avalon:u3|IIC_Clk'
+Slack : -4.199
+TNS   : -85.663
+
+Type  : Slow 1100mV 0C Model Setup 'Clk_trans'
+Slack : -1.277
+TNS   : -17.522
+
+Type  : Slow 1100mV 0C Model Hold 'Clk_In'
+Slack : 0.218
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'IIC_Avalon:u3|IIC_Clk'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Clk_trans'
+Slack : 0.765
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Clk_In'
+Slack : -0.509
+TNS   : -56.193
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'IIC_Avalon:u3|IIC_Clk'
+Slack : -0.394
+TNS   : -14.208
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Clk_trans'
+Slack : -0.394
+TNS   : -7.707
+
+Type  : Fast 1100mV 85C Model Setup 'Clk_In'
+Slack : -3.511
+TNS   : -114.723
+
+Type  : Fast 1100mV 85C Model Setup 'IIC_Avalon:u3|IIC_Clk'
+Slack : -2.022
+TNS   : -39.863
+
+Type  : Fast 1100mV 85C Model Setup 'Clk_trans'
+Slack : -0.597
+TNS   : -6.679
+
+Type  : Fast 1100mV 85C Model Hold 'IIC_Avalon:u3|IIC_Clk'
+Slack : 0.152
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Clk_In'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Clk_trans'
+Slack : 0.350
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Clk_In'
+Slack : -0.501
+TNS   : -10.138
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'IIC_Avalon:u3|IIC_Clk'
+Slack : 0.063
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Clk_trans'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'Clk_In'
+Slack : -2.984
+TNS   : -92.432
+
+Type  : Fast 1100mV 0C Model Setup 'IIC_Avalon:u3|IIC_Clk'
+Slack : -1.973
+TNS   : -38.719
+
+Type  : Fast 1100mV 0C Model Setup 'Clk_trans'
+Slack : -0.471
+TNS   : -5.479
+
+Type  : Fast 1100mV 0C Model Hold 'Clk_In'
+Slack : 0.075
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'IIC_Avalon:u3|IIC_Clk'
+Slack : 0.123
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Clk_trans'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Clk_In'
+Slack : -0.494
+TNS   : -10.033
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'IIC_Avalon:u3|IIC_Clk'
+Slack : 0.085
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Clk_trans'
+Slack : 0.148
+TNS   : 0.000
+
+------------------------------------------------------------

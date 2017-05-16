@@ -1,0 +1,6 @@
+
+State Machine - |IIC_Test|IIC_Avalon:u3|IIC_State
+Name IIC_State.000 IIC_State.010 IIC_State.001 
+IIC_State.000 0 0 0 
+IIC_State.001 1 0 1 
+IIC_State.010 1 1 0 
